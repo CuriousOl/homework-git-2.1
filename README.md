@@ -19,10 +19,10 @@
 
 Ниже пример кода из нашего приложения:
 
-111
-```CSS
+
 .selector {
+  ```css
   font-family: "Awesome", Arial, sans-serif;
   color: red;
+  ```
 }
-```
