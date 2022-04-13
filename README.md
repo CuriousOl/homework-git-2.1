@@ -18,9 +18,6 @@
 4. Дизайн-студия имени Слишком Известного Персонажа
 
 Ниже пример кода из нашего приложения:
-```html
-<linkrel="stylesheet"href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"integrity="sha284-MCw98/SFnGE
-```
 
 ```css
 .selector {
